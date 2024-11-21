@@ -112,10 +112,10 @@ This indicates that the tumor is predicted to be **Benign** with a high probabil
 - Libraries like **Streamlit**, **Scikit-learn**, and **Imbalanced-learn** are used to build and run the app.
 
 ## Requirements
-streamlit
-pandas
-numpy
-scikit-learn
-imblearn
+  - Streamlit
+    - Pandas
+    - Scikit-learn
+    - Imbalanced-learn
+    - NumPy
 
 
